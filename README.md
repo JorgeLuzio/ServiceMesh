@@ -1,4 +1,4 @@
-# What are service meshes?
+# What is Service Mesh?
 - A `service mesh` is a platform layer on top of the infrastructure layer that enables managed, observable, and secure communication between individual services.
 - They are transparent to the application. The service mesh monitors all traffic trough a proxy, this proxy is deployed by a `sidecar patern`.
 - The Service Mesh provides:
